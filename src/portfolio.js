@@ -261,6 +261,13 @@ const blogSection = {
       description:
         "Python program to run analyze on multiple tables in parallel for PostgreSQL Database."
     }
+    ,
+    {
+      url: "https://pgyogesh.github.io/blog/",
+      title: "Check out my all blog posts here",
+      description:
+        ""
+    }
   ],
   display: true // Set false to hide this section, defaults to true
 };
