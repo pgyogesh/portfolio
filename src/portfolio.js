@@ -70,6 +70,10 @@ https://fontawesome.com/icons?d=gallery */
     {
       skillName: "bash scripting",
       fontAwesomeClassname: "fas fa-hashtag"
+    },
+    {
+      skillName: "Github",
+      fontAwesomeClassname: "fab fa-github"
     }
   ],
   display: true // Set false to hide this section, defaults to true
