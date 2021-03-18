@@ -112,6 +112,10 @@ const techStack = {
       progressPercentage: "70%"
     },
     {
+      Stack: "PL/pgSQL",
+      progressPercentage: "70%"
+    },
+    {
       Stack: "Shell Scripting",
       progressPercentage: "60%"
     },
